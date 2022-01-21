@@ -1,0 +1,90 @@
+{
+    "bot": {
+        "owner": "871362916241264645",
+        "prefix": ".",
+        "BotStatus": "developers by twha",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "863066631902855230",
+            "log": "BAN LOG ID",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "888956557512048640",
+            "roles": "863071346292424744",
+            "log": "JAİL LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "888956557512048640",
+            "roles": "869372098592776213",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "932641960810922054",
+            "log": "WARN LOG ID"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "932651189256990740",
+        "voicelog": "932651211121909830",
+        "taglog": " "
+    },
+    "roles": {
+        "boosterrole": "860200354985017365",
+        "viprole": "858848834667151400",
+        "designerrole": "910620634051125311",
+        "musiciansrole": "879497471171125268",
+        "team": " ",
+        "sponsored": "877292667917205564"
+    },
+    "channels": {
+        "chat": "926579720366219304",
+        "voicechannel": "926930385886134332",
+        "welcomechannel": "926752308656758794",
+        "rules": "926847459811012648"
+    },
+    "parents": {
+        "publicparents": "926760608278380584"
+    },
+    "registration": {
+        "unregistered": "861354138036994048",
+        "man": ["908092767681523735"],
+        "woman": ["908039112538353665"],
+        "staff": "861354138036994048",
+        "GuilDTag": " ",
+        "TagSymbol": " ",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "863071346292424744",
+        "susoeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "908092767681523735",
+        "onewoman": "908039112538353665",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "858451821248774144",
+        "GuilDName": "Sereia",
+        "GuildOwnerRole": ["858848832858095627"]
+    },
+    "emojis": {
+        "tada": "🎉",
+        "yes": "✅",
+        "no": "❌"
+    },
+    "buttons": {
+        "giveaway": "908711834192842802",
+        "activity": "908711846725427200"
+    }
+}
